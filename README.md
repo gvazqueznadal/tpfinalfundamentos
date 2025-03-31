@@ -3,7 +3,6 @@
 Trabajo Práctico Final - Fundamentos de Analisis de Datos en Python - Primer Cuatrimestre 2025 - Vázquez Nadal
 
 ## Conclusiones 1
-**Factores más correlacionados con el precio por noche:**
 El precio está fuertemente determinado por las características físicas del alojamiento, especialmente la capacidad (personas, camas, dormitorios) y el tipo de propiedad. Sin embargo, el puntaje de reviews no tiene un impacto tan claro en el precio como se podría esperar.
 
 Quienes tienen alojamientos más pequeños pueden competir diferenciándose con calidad, diseño o experiencias únicas, ya que las reviews positivas no están siendo capitalizadas en los precios como podrían. También pueden beneficiarse de un pricing más inteligente en temporadas altas o fines de semana.
