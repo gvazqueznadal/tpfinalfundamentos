@@ -22,5 +22,13 @@ Los hosts con entre 6 y 10 propiedades obtienen el mejor rendimiento. En cambio,
 Si sos un host individual o pequeño, enfocarte en alcanzar y mantener el estatus de superhost debería ser prioridad. Si sos un host con muchas propiedades, invertir en estandarización, automatización o gestión profesional puede ayudarte a recuperar calidad y reputación.
 
 ## Conclusiones Bonus
+Este modelo predictivo se centró en estimar los ingresos anuales de un alojamiento en Airbnb Barcelona, lo cual representa una métrica muy relevante para los hosts desde el punto de vista del negocio.
 
-El modelo tiene un poder predictivo moderado, explicando aproximadamente el 18% de la variación del precio y se equivoca aproximadamente en 62.50 euros. Aún así, sirve como base para un análisis más complejo o como input para hosts que buscan referencias iniciales.
+Usando un modelo de Random Forest Regressor y variables como la capacidad del alojamiento, el precio, la disponibilidad, el puntaje promedio y el tipo de propiedad, se logró:
+
+Un error absoluto medio (MAE) de €9.424, lo cual es razonable en un rango de ingresos anuales que puede variar ampliamente.
+
+Un R² de 0.44, lo que indica que el modelo explica el 44% de la variación en los ingresos. 
+
+Este modelo es una herramienta sólida para estimar el rendimiento económico de una propiedad y tomar decisiones más informadas sobre precios, disponibilidad y calidad del servicio.
+
